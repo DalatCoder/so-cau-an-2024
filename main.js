@@ -808,7 +808,7 @@ function buildTemplate(ownerName, address, people) {
   if (isSuccess) {
     html += `
             <div class="alert alert-success" role="alert">
-                Lấy danh sách sao hạn 2024 thành công
+                Lấy danh sách sao hạn thành công
             </div>
         `;
   } else {
